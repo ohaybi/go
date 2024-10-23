@@ -1,0 +1,41 @@
+body {
+  background-color: snow;
+  color: coral;
+}
+
+a:link {
+  color: sienna;
+}
+a:visited {
+  color: sienna;
+}
+a:hover {
+  color: sienna;
+}
+a:active {
+  color: sienna;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+span {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
